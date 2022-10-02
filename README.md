@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JS**
 
-- 📫 How to reach me **gaurav.kr.jha.7@gmail.com**
+- 📫 Reach me at **gaurav.kr.jha.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
